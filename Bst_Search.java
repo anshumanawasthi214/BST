@@ -1,3 +1,5 @@
+package BST;
+
 public class Bst_Search {
         static class Node{
             int data;

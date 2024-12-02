@@ -1,3 +1,5 @@
+package BST;
+
 public class bst_form {
     static class Node{
         int data;
